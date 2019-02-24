@@ -1,0 +1,15 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "A epxress server template containing both HTTPS and HTTP Server",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
